@@ -1,4 +1,4 @@
 tour
 ====
 
-Trivial filesystem walker to benchmark RonJon's system.
+Trivial filesystem walker to benchmark the parallel filesystem walker.
